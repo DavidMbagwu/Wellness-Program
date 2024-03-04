@@ -15,4 +15,5 @@ pip install pillow
 
 
 pip install pywebview
+
 Adetola Aladekoba: In crafting the pitch deck for the hackathon, I began by defining the problem and its impact, followed by presenting our innovative solution. I detailed our technical approach, explaining the technologies and tools used, and acknowledged the challenges faced, discussing how we overcame them. Finally, I shared the insights gained, reflecting on the lessons learned. This structured approach ensured a comprehensive and clear presentation of our project's value and potential impact.
