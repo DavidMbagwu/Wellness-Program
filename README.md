@@ -1,5 +1,6 @@
 MïïMVR Mental Awareness Software
 Team Members: David Mbagwu,  Adetola Aladekoba, Wilfred Robert-Fajimi, Sandrin Muramutsa
+
 This is an Interactive, friendly user interface that offers students access to study-period platforms, personal journals, and mental health wellness resources.
 the following libraries need to be installed on the IDE to run the program effectively
 
